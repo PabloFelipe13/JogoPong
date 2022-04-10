@@ -1,4 +1,9 @@
-Olá, Sou Pablo, iniciante em programação.      
+Olá, Sou Pablo, iniciante em programação.
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 Gosto de Programar e Compartilhar Minhas Descobertas.
 Mas sou inesperiente, então me ajude com dicas e comentarios informativos e didáticos.
 
